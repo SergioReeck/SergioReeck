@@ -4,7 +4,7 @@
 
 Atuei por muitos anos na área administrativa, com experiência em **Faturamento**, **Financeiro** e **Contabilidade**, desenvolvendo habilidades em organização, análise de dados, resolução de problemas e melhoria de processos.
 
-Em 2021 iniciei minha transição de carreira para a área de tecnologia participando do programa **Entra21/Blusoft**, onde me especializei em desenvolvimento utilizando **C#/.NET**. Em 2024 concluí a graduação em **Tecnologia em Segurança Cibernética** pelo **SENAC** e, atualmente, estou ampliando meus conhecimentos em **Análise de Dados** por meio do **SENAI/SC**.
+Em 2021 iniciei minha transição de carreira para a área de tecnologia participando do programa **Entra21/Blusoft**, onde me especializei em desenvolvimento utilizando **C#/.NET Core MVC**. Em 2024 concluí a graduação em **Tecnologia em Segurança Cibernética** pelo **SENAC** e, atualmente, estou ampliando meus conhecimentos em **Análise de Dados** por meio do **SENAI/SC**.
 
 Meu objetivo é unir minha experiência em negócios com tecnologia para transformar dados em informações estratégicas e desenvolver soluções que gerem valor.
 
