@@ -77,13 +77,14 @@ Busco uma oportunidade na área de **Análise de Dados**, onde possa aplicar con
 
 ## 📊 Estatísticas do GitHub
 
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioReeck&show_icons=true&theme=github_dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioReeck&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioReeck&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioReeck&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SergioReeck&theme=github-dark)
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SergioReeck&theme=github-dark" />
+</p>
 
 ---
 
