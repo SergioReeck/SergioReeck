@@ -77,8 +77,6 @@ Busco uma oportunidade na área de **Análise de Dados**, onde possa aplicar con
 
 ## 📊 Estatísticas do GitHub
 
-> Substitua **SEU_USUARIO** pelo seu usuário do GitHub.
-
 ```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioReeck&show_icons=true&theme=github_dark)
 
