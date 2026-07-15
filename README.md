@@ -85,4 +85,4 @@ Busco uma oportunidade na área de **Análise de Dados**, onde possa aplicar con
 
 ### ⭐ Obrigado pela visita!
 
-Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e compartilhar conhecimento. Fique à vontade para explorar meus repositórios e acompanhar minha evolução na área de Tecnologia.
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e compartilhar conhecimento. Fique à vontade para explorar meus repositórios e acompanhar minha evolução na áreas da tecnologia.
